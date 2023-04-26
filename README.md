@@ -2,7 +2,7 @@
 a small coded game by CPP
 
 The Number guessing game is made by C++
-using stdlib.h
+using cstdlib
 we use rand() for giving random number
 
 and then using a while loop and if-else ladder
